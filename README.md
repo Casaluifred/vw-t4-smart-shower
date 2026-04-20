@@ -42,5 +42,5 @@ Nutze die Arduino IDE (Board: Generic ESP8266 Module) zum Hochladen der `t4_smar
 
 ## Autor
 
-**Fred Fiedler** Fotograf und Content Creator  
+**Fred Fiedler** Fotograf und Fernwehgeplagter  
 GitHub: [Casaluifred](https://github.com/Casaluifred)
