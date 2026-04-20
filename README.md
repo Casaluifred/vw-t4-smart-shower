@@ -2,6 +2,8 @@
 
 Eine smarte, ultra-kompakte und zeitgesteuerte Steuerung für eine 12V-Tauchpumpe (Camping-Dusche), speziell entwickelt für den begrenzten Platz (C-Säule) im VW T4 Multivan.
 
+Eine ausführliche Schritt-für-Schritt-Bauanleitung sowie weitere Hintergrundinformationen findest du auf meinem Blog: [xtramp.de - VW T4 Dusche nachrüsten](https://xtramp.de/wp/vw-t4-dusche-nachruesten-esp8266/)
+
 ## Projekt-Highlights
 
 * **Auto-Off Timer:** Die Pumpe schaltet sich nach einer definierten Zeit automatisch ab (Schutz vor Trockenlaufen und Wasserverschwendung).
