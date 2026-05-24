@@ -39,7 +39,7 @@ const int RELAY_ON_STATE  = LOW;
 const int RELAY_OFF_STATE = HIGH;
 
 // Variable für Laufzeit (wird im Setup aus EEPROM überschrieben)
-unsigned long runTimeMs = 120000; // Default: 2 Minuten
+unsigned long runTimeMs = 120000; // Default: 2 Minuten, max. 10 Minuten (siehe Zeile 166f)!
 
 // WLAN Zugangsdaten
 const char* ssid = "T4 SmartShower";
