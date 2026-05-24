@@ -43,7 +43,7 @@ unsigned long runTimeMs = 120000; // Default: 2 Minuten
 
 // WLAN Zugangsdaten
 const char* ssid = "T4 SmartShower";
-const char* password = "multivan"; 
+const char* password = "password"; 
 
 // Netzwerk-Konfiguration
 IPAddress local_IP(192, 168, 4, 5);
